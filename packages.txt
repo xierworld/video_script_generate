@@ -1,0 +1,7 @@
+# 用于lxml编译（解析HTML/XML的依赖）
+libxml2-dev
+libxslt1-dev
+# 用于Pillow编译（图像处理的依赖）
+zlib1g-dev
+libjpeg-dev
+# 可选：若后续有其他编译类包，可在此添加
