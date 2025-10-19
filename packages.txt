@@ -1,0 +1,3 @@
+# 安装 lxml 必需的系统开发库
+libxml2-dev
+libxslt1-dev
