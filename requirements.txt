@@ -85,7 +85,7 @@ tornado==6.4
 tqdm==4.66.1
 typing-inspect==0.9.0
 typing-inspection==0.4.2
-typing_extensions==4.8.0
+typing_extensions>=4.12.0
 tzdata==2023.3
 tzlocal==5.2
 urllib3==2.1.0
@@ -95,6 +95,7 @@ wikipedia==1.4.0
 yarl==1.9.3
 zipp==3.17.0
 zstandard==0.25.0
+
 
 
 
